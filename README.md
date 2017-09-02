@@ -9,4 +9,4 @@ This program is made for practice project
 > python3, requests, bs4, selenium, geckodriver
 
 #  Usage: 
-> image-site-downloader.py [search requests]
+> image-site-downloader.py [search request]
